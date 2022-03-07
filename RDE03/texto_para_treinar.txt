@@ -1,0 +1,37 @@
+[Título nível 1] HTML
+É uma Linguagem de Marcação de Hipertexto baseada em tags criada na década de 1990 por Tim Berners-Lee para publicação de conteúdo em hipertexto, tais como, texto, imagem, áudio e vídeo, e que podem ser vinculados através de hyperlinks.
+
+[Título nível 1]TAGS
+As tags definem ao navegador a marcação de conteúdo. As tags tem funcionalidades específicas. Sem o uso de tags o navegador exibe um texto plano.
+As tags podem possuir atributos, ou seja, são parâmetros que definem algum tipo de informação extra ao navegador.
+
+[Título nível 2]Marcação de Títulos
+As tags de heading definem o título e possui seis níveis de importância.
+Este é um título 1
+Este é um título 2
+Este é um título 3
+Este é um título 4
+Este é um título 5
+Este é um título 6
+
+
+[Título nível 2]Marcação de Parágrafos
+As tags de parágrafo definem a apresentação dos parágrafos.
+
+ Este é um parágrafo 
+Este é outro parágrafo
+
+[Título nível 2]Marcação para formatação de texto
+
+[Título nível 3]Negrito
+texto em negrito 
+ texto destacado 
+
+[Título nível 3] Itálico
+Texto Itálico
+Texto com ênfase
+
+[Título nível 3]Alterações na fonte
+This text is big
+This is some smaller text
+fonte em azul
